@@ -170,6 +170,24 @@ export const companies = [
   },
 ];
 
+export const approach = [
+  {
+    id: 1,
+    title: "Email Marketing",
+    icon: "Phase 1",
+  },
+  {
+    id: 2,
+    title: "Script Writing",
+    icon: "Phase 2",
+  },
+  {
+    id: 3,
+    title: "Fun writing",
+    icon: "Phase 3",
+  },
+];
+
 export const workExperience = [
   {
     id: 1,
